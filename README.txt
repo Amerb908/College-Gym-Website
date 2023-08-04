@@ -1,5 +1,3 @@
-Sure, I can help you improve your README file for your Gym Titus web application on GitHub. Here's a revised version of your README:
-
 # Gym Titus Web Application
 
 The Gym Titus web application is a Java-based web application developed using HTML, Java, and an SQL DBMS. It provides a platform for managing gym memberships, personal trainer sessions, and member information.
